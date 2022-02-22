@@ -1,3 +1,6 @@
+% Álvaro Reviriego Moreno & Enrique Sentana
+% Orbital Mechanics. Professors: Mario Merino
+
 clear; clc; close all; 
 
 % Define the angular velocity and the radius of the Earth as global variables 
